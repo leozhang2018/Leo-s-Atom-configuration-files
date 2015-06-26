@@ -1,0 +1,15 @@
+"*":
+  "exception-reporting":
+    userId: "22025383-bda5-b1df-9bfe-ac134d14c5ef"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 17
+    fontFamily: "Source Code Pro,WenQuanYi Micro Hei"
+  "one-dark-ui": {}
